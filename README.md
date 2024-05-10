@@ -6,7 +6,7 @@
 - [My linkedind profile](linkedin.com/in/3mr3llam)
 
 
-##ACHIEVEMENTS
+## ACHIEVEMENTS
 * Engineered a chatbot using Flutter and Python, leveraging Pytorch for AI development. Integrated with FAST API to enable online availability and there can be further enhancement as an AI assistant for websites.
 * Created a Pomodoro timer application using Flutter and the Getx package, implementing the renowned Pomodoro Technique for effective time management.
 * Developed an intuitive APK extractor application for the Android platform, employing Java to streamline the extraction process and facilitate the local storage or effortless sharing of APK files extracted from installed applications. This application serves as a practical utility, simplifying tasks related to app management and file sharing.
